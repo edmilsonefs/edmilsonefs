@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edmilson Ferreira da Silva.
 - 👀 I’m interested in test automation.
-- 🌱 I’m currently learning Crystal and Rust.
+- 🌱 I’m currently learning Rust.
 - 😄 Pronouns: He/Him
 
 <!---
